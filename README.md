@@ -37,3 +37,6 @@ nodejs my-lottery-app.js
 ```
 访问```http://localhost:8033/```即可看到抽奖页面
 
+![lottery-screenshot1](https://github.com/binsvivi/annual-lottery/raw/master/images/lottery-screenshot1.png)
+![lottery-screenshot2](https://github.com/binsvivi/annual-lottery/raw/master/images/lottery-screenshot2.png)
+
