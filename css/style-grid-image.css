@@ -1,0 +1,19 @@
+/*basic reset*/
+* {margin: 0; padding: 0;}
+body {text-align: center; overflow: hidden;}
+
+.grid {
+	width: 80%; height: 50%; margin: 120px auto 50px auto;
+	perspective: 500px; /*For 3d*/
+}
+.grid img {width: 120px; height: 120px; border-radius:120px; display: block; float: left;}
+
+.animate {
+	position:absolute;
+	top:70%;
+	left:40%;
+	border:0px;
+	width:250px;
+	height:214px;
+	cursor: pointer;
+}
